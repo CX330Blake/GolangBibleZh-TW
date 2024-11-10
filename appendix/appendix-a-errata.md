@@ -1,4 +1,4 @@
-## 附录A：[原文勘误](http://www.gopl.io/errata.html)
+## 附錄A：[原文勘誤](http://www.gopl.io/errata.html)
 
 **p.9, ¶2:** for "can compared", read "can be compared". (Thanks to Antonio Macías Ojeda, 2015-10-22. Corrected in the second printing.)
 
@@ -56,7 +56,7 @@ appears on the right-hand side of a variable declaration with an explicit type, 
 
 **p.222, Exercise 8.1:** The port numbers for `London` and `Tokyo` should be swapped in the final command to match the earlier commands. (Thanks to Kiyoshi Kamishima, 2016-01-08.)
 
-**p.272, ¶3:** for "the request body", read "the response body". (Thanks to [曹春晖](https://github.com/cch123), 2016-01-19.)
+**p.272, ¶3:** for "the request body", read "the response body". (Thanks to [曹春暉](https://github.com/cch123), 2016-01-19.)
 
 **p.288, code display following ¶4:** In the import declaration, for `"database/mysql"`, read `"database/sql"`. (Thanks to Jose Colon Rodriguez, 2016-01-09.)
 

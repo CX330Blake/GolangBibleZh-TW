@@ -3,14 +3,14 @@
 // license that can be found in the LICENSE file.
 
 //
-// Go圣经中文版.
+// Go聖經中文版.
 //
-// 在线版本: http://golang-china.github.io/gopl-zh
+// 在線版本: http://golang-china.github.io/gopl-zh
 //
-// 离线版本: http://github.com/golang-china/gopl-zh/archive/gh-pages.zip
+// 離線版本: http://github.com/golang-china/gopl-zh/archive/gh-pages.zip
 //
-// 项目主页: http://github.com/golang-china/gopl-zh
+// 項目主頁: http://github.com/golang-china/gopl-zh
 //
-// 原版官网: http://gopl.io
+// 原版官網: http://gopl.io
 //
 package gopl_zh
