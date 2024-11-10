@@ -93,7 +93,7 @@ var giscus_initAll = function () {
             return;
         }
 
-        // 若当前 mdbook 主题不是 Light 或 Rust ，则将 giscuz 主题设置为 transparent_dark
+        // 若當前 mdbook 主題不是 Light 或 Rust ，則將 giscuz 主題設置爲 transparent_dark
         var giscusTheme = "light"
         if (theme != "light" && theme != "rust") {
             giscusTheme = "transparent_dark";
